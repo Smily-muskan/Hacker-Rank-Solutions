@@ -4,7 +4,7 @@
 #include <stdlib.h>
 int main()
 {
-	  int n1,n2,a,b;
+    int n1,n2,a,b;
     float m1,m2,c,d;
     scanf("%d%d",&n1,&n2);
     a=n1+n2;
